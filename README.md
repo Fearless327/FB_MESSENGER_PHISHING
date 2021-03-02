@@ -9,5 +9,7 @@ $ php -S 127.0.0.1:8080
 
 Please Download ngrok
 
+$ chmod +x ngrok
+
 $ ./ngrok http 8080
 
